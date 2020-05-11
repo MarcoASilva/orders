@@ -7,7 +7,8 @@
 			"date": "01/03/2020",
 			"cashbackPercentage": 5,
 			"cashbackAbsolute": 14.00,
-			"status": 1
+			"status": 1,
+			"statusText": "Aprovado"
 		},
 		{
 			"id": 2,
@@ -16,7 +17,8 @@
 			"date": "01/03/2020",
 			"cashbackPercentage": 5,
 			"cashbackAbsolute": 14.00,
-			"status": 1
+			"status": 1,
+			"statusText": "Aprovado"
 		},
 		{
 			"id": 3,
@@ -25,7 +27,8 @@
 			"date": "01/03/2020",
 			"cashbackPercentage": 5,
 			"cashbackAbsolute": 14.00,
-			"status": -1
+			"status": -1,
+			"statusText": "Não Aprovado"
 		},
 		{
 			"id": 4,
@@ -34,7 +37,8 @@
 			"date": "01/03/2020",
 			"cashbackPercentage": 5,
 			"cashbackAbsolute": 14.00,
-			"status": 0
+			"status": 0,
+			"statusText": "Em Análise"
 		}
 	]
 }
