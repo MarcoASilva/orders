@@ -1,34 +1,40 @@
-[
-	{
-		"code": 4059827,
-		"price": 280.00,
-		"date": "01/03/2020",
-		"cashbackPercentage": 5,
-		"cashbackAbsolute": 14.00,
-		"status": 1
-	},
-	{
-		"code": 4059828,
-		"price": 280.00,
-		"date": "01/03/2020",
-		"cashbackPercentage": 5,
-		"cashbackAbsolute": 14.00,
-		"status": 1
-	},
-	{
-		"code": 4059829,
-		"price": 280.00,
-		"date": "01/03/2020",
-		"cashbackPercentage": 5,
-		"cashbackAbsolute": 14.00,
-		"status": -1
-	},
-	{
-		"code": 4059830,
-		"price": 280.00,
-		"date": "01/03/2020",
-		"cashbackPercentage": 5,
-		"cashbackAbsolute": 14.00,
-		"status": 0
-	}
-]
+{
+	"orders": [
+		{
+			"id": 1
+			"code": 4059827,
+			"price": 280.00,
+			"date": "01/03/2020",
+			"cashbackPercentage": 5,
+			"cashbackAbsolute": 14.00,
+			"status": 1
+		},
+		{
+			"id": 2
+			"code": 4059828,
+			"price": 280.00,
+			"date": "01/03/2020",
+			"cashbackPercentage": 5,
+			"cashbackAbsolute": 14.00,
+			"status": 1
+		},
+		{
+			"id": 3
+			"code": 4059829,
+			"price": 280.00,
+			"date": "01/03/2020",
+			"cashbackPercentage": 5,
+			"cashbackAbsolute": 14.00,
+			"status": -1
+		},
+		{
+			"id": 4
+			"code": 4059830,
+			"price": 280.00,
+			"date": "01/03/2020",
+			"cashbackPercentage": 5,
+			"cashbackAbsolute": 14.00,
+			"status": 0
+		}
+	]
+}
