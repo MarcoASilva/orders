@@ -37,8 +37,8 @@
 			"date": "01/05/2020",
 			"cashbackPercentage": 15,
 			"cashbackAbsolute": 48.00,
-			"status": 0,
-			"statusText": "Em Análise"
+			"status": -1,
+			"statusText": "Não Aprovado"
 		}
 	]
 }
